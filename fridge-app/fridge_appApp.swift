@@ -7,11 +7,14 @@
 
 import SwiftUI
 
+
 @main
 struct fridge_appApp: App {
+
     var body: some Scene {
         WindowGroup {
             ContentView()
         }
+        
     }
 }
